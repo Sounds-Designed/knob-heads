@@ -11,7 +11,7 @@
 Install the module to your project with one command:
 
 ```bash
-npm install -s @sounds-designed/knob-heads
+npm install -S @sounds-designed/knob-heads
 ```
 
 That's it! You can now use our knob heads in your Javascript project ✨
